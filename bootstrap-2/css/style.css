@@ -1,0 +1,25 @@
+div{
+    height: 150px;
+    border: 2px solid white;
+}
+.black{
+    background-color: black;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.blueviolet{
+    background-color: blueviolet;
+}
+.orangered{
+    background-color: orangered;
+}
+.green{
+    background-color: greenyellow;
+}
+.celeste{
+    background-color: cornflowerblue;
+}

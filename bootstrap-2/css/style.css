@@ -2,24 +2,24 @@ div{
     height: 150px;
     border: 2px solid white;
 }
-.black{
+.color1{
     background-color: black;
 }
-.red{
-    background-color: red;
+.color2{
+    background-color: #587BBD;
 }
-.blue{
-    background-color: blue;
+.color3{
+    background-color: #2F4798;
 }
-.blueviolet{
-    background-color: blueviolet;
+.color4{
+    background-color: #FF10DA;
 }
-.orangered{
-    background-color: orangered;
+.color5{
+    background-color: #EF5A00;
 }
-.green{
-    background-color: greenyellow;
+.color6{
+    background-color: #10B9FF;
 }
-.celeste{
-    background-color: cornflowerblue;
+.color7{
+    background-color: #7BFF70;
 }
